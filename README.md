@@ -13,6 +13,7 @@ Robotic project supports kid to learn coding with Visual programming and Robot.
 </table>
 
 <h2>Raspberry PI Part</h2>
+<p>Running on Python 2.7 . </p>
 <h3>Install Flask</h3>
 <pre>
 $ sudo pip install Flask
