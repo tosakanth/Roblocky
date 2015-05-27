@@ -3,7 +3,7 @@ Robotic project supports kid to learn coding with Visual programming and Robot.
 
 <h2>Arduino Part</h2>
 
-<h3>Compass</h3>
+<h3>Compass Wiring</h3>
 <table>
 <tr><td>Arduino</td><td>HMC5883L (Compass module)</td></tr>
 <tr><td>SDA</td><td>A4</td></tr>
