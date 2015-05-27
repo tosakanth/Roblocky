@@ -8,7 +8,12 @@ Robotic project supports kid to learn coding with Visual programming and Robot.
 <img src="https://lh6.googleusercontent.com/0s5IAwpGgvI8GERSLgprBx69kdxtuP3Mjs17LzFZLxMitAAtvjTPNgc74d5Y_8-gq0P9gdVrSOq-Fmc=w1509-h683" width="320" height="240"/>
 
 <h2>Raspberry PI Part</h2>
-<p>Install Flask</p>
+<h3>Install Flask</h3>
 <pre>
-$ pip install Flask
+$ sudo pip install Flask
+</pre>
+
+<h3>Install Flask-SocketIO</h3>
+<pre>
+$ sudo pip install flask-socketio
 </pre>
