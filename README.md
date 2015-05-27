@@ -4,8 +4,13 @@ Robotic project supports kid to learn coding with Visual programming and Robot.
 <h2>Arduino Part</h2>
 
 <h3>Compass</h3>
-
-<img src="https://lh6.googleusercontent.com/0s5IAwpGgvI8GERSLgprBx69kdxtuP3Mjs17LzFZLxMitAAtvjTPNgc74d5Y_8-gq0P9gdVrSOq-Fmc=w1509-h683" width="320" height="240"/>
+<table>
+<tr><td>Arduino</td><td>HMC5883L (Compass module)</td></tr>
+<tr><td>SDA</td><td>A4</td></tr>
+<tr><td>SCL</td><td>A5</td></tr>
+<tr><td>VCC</td><td>3.3V</td></tr>
+<tr><td>GND</td><td>GND</td></tr>
+</table>
 
 <h2>Raspberry PI Part</h2>
 <h3>Install Flask</h3>
